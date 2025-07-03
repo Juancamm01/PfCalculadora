@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(220, 230, 205);
+    text-align: center;
+}
+
+input{
+    width: 80px;
+    height: 20px;
+    border-color: blueviolet;
+}
+
+h1{
+    font-family: monospace;
+    font-size: 30px;
+    color: rgb(24, 23, 116);
+}
+
+h2{
+    font-family: monospace;
+    font-size: 30px;
+    color: rgb(24, 23, 116);
+}
+
+button{
+    height: 30px;
+    margin: 3px;
+}
